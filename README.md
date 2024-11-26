@@ -20,4 +20,4 @@ Expert in **Salesforce architecture**, **full-stack development**, and **Generat
 - Successfully sold **Playr.gg** after achieving 30% monthly growth.  
 
 ## 📬 Connect  
-📧 [Email me](mailto:mikemikula@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/michael-mikula) | 🌟 [Trailhead](https://trailhead.salesforce.com/)  📁 [Resume](https://mikemikula.com)
+📧 [Email me](mailto:mikemikula@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/michael-mikula) | 🌟 [Trailhead](https://trailhead.salesforce.com/) | 📁 [Resume](https://mikemikula.com)
