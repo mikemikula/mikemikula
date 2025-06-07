@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Michael V. Mikula  
 
-**Lead Software Engineer | Salesforce Technical Leader**  
-Expert in **Salesforce architecture**, **full-stack development**, and **Generative AI integration**. Proven track record of delivering high-impact solutions, scaling products, and mentoring technical teams.
+**Lead Salesforce Engineer**  
+Maximizing AI Productivity - I share what I ship with Agents, Salesforce, Full Stack Engineering, Prompt Engineering and LLM Workflows
+
+Lead Software Engineer and Salesforce Technical Architect with extended experience in Salesforce development & architecture, full-stack engineering, and cursor generative AI development. Proven track record (36x LinkedIn recommended) in architecting enterprise solutions, implementing DevOps practices, and leading technical teams. Expertise in managed packages, AgentForce, CICD implementation, and product driven development.
 
 ## 🛠️ Skills & Expertise  
 - **Salesforce**: Apex, LWC, Managed Packages, CICD  
