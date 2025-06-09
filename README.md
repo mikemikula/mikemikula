@@ -22,4 +22,4 @@ Lead Software Engineer and Salesforce Technical Architect with extended experien
 - Successfully sold **Playr.gg** after achieving 30% monthly growth.  
 
 ## 📬 Connect  
-📧 [Email me](mailto:mikemikula@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mikemikula/) | 🌟 [Trailhead](https://trailhead.salesforce.com/) | 📁 [Resume](https://mikemikula.com)
+📧 [Email me](mailto:mikemikula@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mikemikula/) | 🌟 [Trailhead](https://www.salesforce.com/trailblazer/mikemikula) | 📁 [Resume](https://mikemikula.com)
